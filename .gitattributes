@@ -1,0 +1,5 @@
+# Ignore vendor or build output folders
+vendor/* linguist-vendored
+
+# Override specific file extension detection
+*.myext linguist-language=C++
