@@ -10,3 +10,16 @@ This Tic-Tac-Toe game is made by Java & JavaFX . You can play with the computer 
 <img width="491" height="523" alt="image" src="https://github.com/user-attachments/assets/028b3624-6f62-4d9d-a7be-cc0b5a2c7204" />
 
 * if you want to replay the game, you can re-run the code. (A coming soon feature: adding replay button in initialize the game)
+
+# Repository Structure 
+
+```text
+.
+├── README.md
+│
+├── src
+│    └── Cell.java
+│    └── GameHandler.java
+│    └── XOGame.java
+
+```
