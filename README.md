@@ -9,4 +9,4 @@ This Tic-Tac-Toe game is made by Java & JavaFX . You can play with the computer 
 * Two Users: Select two players. X Player will start playing, Then X Player and so on.
 <img width="491" height="523" alt="image" src="https://github.com/user-attachments/assets/028b3624-6f62-4d9d-a7be-cc0b5a2c7204" />
 
-* if you wanna to replay the game, you can re-run the code. (A coming soon feature: adding replay button in initialize the game)
+* if you want to replay the game, you can re-run the code. (A coming soon feature: adding replay button in initialize the game)
