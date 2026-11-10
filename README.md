@@ -17,7 +17,7 @@ This Tic-Tac-Toe game is made by Java & JavaFX . You can play with the computer 
 .
 ├── README.md
 │
-├── src
+├── src/
 │    └── Cell.java
 │    └── GameHandler.java
      └── XOGame.java
