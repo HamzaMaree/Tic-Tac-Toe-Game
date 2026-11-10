@@ -20,6 +20,6 @@ This Tic-Tac-Toe game is made by Java & JavaFX . You can play with the computer 
 ├── src
 │    └── Cell.java
 │    └── GameHandler.java
-│    └── XOGame.java
+     └── XOGame.java
 
 ```
